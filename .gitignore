@@ -1,0 +1,14 @@
+# Development files
+.DS_Store
+node_modules/
+dist/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# .cahce
+.eslintcache
+
+# Editor directories and files
+.idea
+.vscode
